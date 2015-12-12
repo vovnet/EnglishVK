@@ -1,0 +1,9 @@
+lib
+bin
+obj
+res
+src/com
+src/vk
+*.swf
+
+*.as3proj
